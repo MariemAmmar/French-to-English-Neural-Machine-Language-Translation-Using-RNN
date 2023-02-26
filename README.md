@@ -2,7 +2,7 @@
 This project demonstrates how to train a sequence-to-sequence model for English to French translation using the Keras deep learning library.
 
 ## Part 1: Data Preparation
-This part involves preparing the data for training the sequence-to-sequence model. The data used in this project is the English-French parallel corpus from the Tatoeba Project, which consists of sentence pairs of English and French translations. The following steps are performed in this part:
+This part involves preparing the data for training the sequence-to-sequence model. The data used in this project is the English-French corpus from this link [Click here](https://www.manythings.org/anki/) to access the dataset used in this project, which consists of sentence pairs of English and French translations. The following steps are performed in this part:
 
 * Load the raw text data from the downloaded file.
 * Clean the data by removing non-printable characters, punctuation, and whitespace.
